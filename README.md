@@ -31,6 +31,6 @@ You can install these libraries using pip if they are not already installed.
 3. Execute the code cells in the notebook to perform the analysis.
 
 ### Summary
-This challenge involves clustering cryptocurrencies based on price change data and utilizes techniques such as K-means clustering and Principal Component Analysis (PCA). By the end of this project, you'll gain insights into the clustering patterns of cryptocurrencies, helping you understand their market behavior.
+This challenge involves clustering cryptocurrencies based on price change data and utilises techniques such as K-means clustering and Principal Component Analysis (PCA). By the end of this project, you'll gain insights into the clustering patterns of cryptocurrencies, helping you understand their market behavior.
 
-For a more detailed analysis and visualizations, please refer to the Jupyter Notebook.
+For a more detailed analysis and visualisations, please refer to the Jupyter Notebook.
